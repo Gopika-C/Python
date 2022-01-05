@@ -1,5 +1,5 @@
 f=[]
-file=input("enter the file name:")
+file=input("Enter the file name:")
 f= file.split(".")
 print(f)
-print("extension of the file is :" + f[-1])
+print("Extension of the file is :" + f[-1])
